@@ -1,0 +1,13 @@
+Package: TDbiostat2
+Type: Package
+Title: Uni.lu Biostat2 TD
+Version: 0.1.0
+Authors@R: c(
+  person("Eric", "Koncina", , "eric.koncina@uni.lu", c("aut", "cre")),
+  person("Aurélien", "Ginolhac", , "aurelien.ginolhac@uni.lu", c("aut"))
+  )
+Description: Contains some datasets used during Biostat2 practicals.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1

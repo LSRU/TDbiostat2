@@ -1,0 +1,13 @@
+#' Weights of mice.
+#'
+#' A (fake) dataset containing the weights of 12 week old male
+#' and female mice from two different strains (C57Bl/6J and DBA/2J)
+#'
+#'
+#' @format A data frame with 400 rows and 3 variables:
+#' \describe{
+#'   \item{sex}{gender, Male (M) or Female (F)}
+#'   \item{strain}{strain name, either C57Bl/6J or DBA/2J}
+#'   \item{weight}{weight, in grams}
+#' }
+"mousew"

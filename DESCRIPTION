@@ -10,4 +10,6 @@ Description: Contains some datasets used during Biostat2 practicals.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
+Depends:
+    R (>= 2.10)
 RoxygenNote: 5.0.1
